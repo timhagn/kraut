@@ -13,6 +13,9 @@ import {
 const { RNTwitterSignIn } = NativeModules
 
 const Constants = {
+  // In case you were wondering, these are the example keys from
+  // `react-native-twitter-login`, so don't make a fuzz ; P.
+  // TH 07.07.19
   //Dev Parse keys
   TWITTER_COMSUMER_KEY: 'qWPj1TXbreMX1SsDvdiQTaF7Y',
   TWITTER_CONSUMER_SECRET: '4t0cRfGWXZvySIa5sS0M38AnT8a8B8hwcX2lZiaStSWStD4B4Z',
