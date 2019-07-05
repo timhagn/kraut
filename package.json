@@ -10,7 +10,10 @@
   "dependencies": {
     "react": "16.8.6",
     "react-native": "0.60.0",
-    "react-native-twitter-signin": "^1.1.1"
+    "react-native-twitter-signin": "^1.1.1",
+    "react-redux": "^7.1.0-alpha.5",
+    "redux": "^4.0.1",
+    "redux-starter-kit": "^0.5.1"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
